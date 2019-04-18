@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"bcu.changeme.phonebook.main"},{"l":"bcu.changeme.phonebook.model"},{"l":"bcu.changeme.phonebook.test"}]
